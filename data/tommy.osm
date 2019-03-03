@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='never' generator='JOSM'>
+  <node id='-711' action='modify' visible='true' lat='0.05563970346478362' lon='0.03163756687220885' />
+  <node id='-709' action='modify' visible='true' lat='0.056503408814864514' lon='0.02977727753497591' />
+  <node id='-707' action='modify' visible='true' lat='0.06009110782178899' lon='0.020010758514645174' />
+  <node id='-705' action='modify' visible='true' lat='0.06035686329458639' lon='0.011573017592326016' />
+  <node id='-703' action='modify' visible='true' lat='0.057965063993380986' lon='0.001009231713205063' />
+  <node id='-701' action='modify' visible='true' lat='0.062150712701697454' lon='-5.853020044255664E-4' />
+  <node id='-699' action='modify' visible='true' lat='0.07410970710730858' lon='-0.004770953013124397' />
+  <node id='-697' action='modify' visible='true' lat='0.08586938179394009' lon='-0.007694264828699678' />
+  <node id='-695' action='modify' visible='true' lat='0.09191531486065505' lon='-0.0022462746269274925' />
+  <node id='-693' action='modify' visible='true' lat='0.09410779583330799' lon='0.010908628543311857' />
+  <node id='-691' action='modify' visible='true' lat='0.09111804901887939' lon='0.026787526814479136' />
+  <node id='-689' action='modify' visible='true' lat='0.08580294296360894' lon='0.033099222780013225' />
+  <node id='-687' action='modify' visible='true' lat='0.07357819630954524' lon='0.03768350721810716' />
+  <node id='-685' action='modify' visible='true' lat='0.06507402271529131' lon='0.03848077407688064' />
+  <node id='-683' action='modify' visible='true' lat='0.05690204204906157' lon='0.0320362003015705' />
+  <node id='-120' action='modify' visible='true' lat='0.08' lon='0.0' /> 
+
+  <way id='-733' action='modify' visible='true'>
+    <nd ref='-683' />
+    <nd ref='-685' />
+    <nd ref='-687' />
+    <nd ref='-689' />
+    <nd ref='-691' />
+    <nd ref='-693' />
+    <nd ref='-695' />
+    <nd ref='-697' />
+    <nd ref='-699' />
+    <nd ref='-701' />
+    <nd ref='-703' />
+    <nd ref='-705' />
+    <nd ref='-707' />
+    <nd ref='-709' />
+    <nd ref='-711' />
+    <nd ref='-683' />
+    <tag k='landuse' v='forest' />
+    <tag k='name' v='Valvo Forest' />
+  </way>
+  
+</osm>
